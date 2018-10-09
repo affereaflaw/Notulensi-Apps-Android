@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notulensi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minimum_password">Password terlalu pendek, masukkan minimal 6 karakter!</string>
+    <string name="auth_failed">Pastikan email dan password Anda benar dan terkoneksi dengan internet</string>
+</resources>
